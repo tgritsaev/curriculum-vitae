@@ -1,2 +1,2 @@
 # cv
-Curriculum Vitae and about me
+Curriculum Vitae and about me.

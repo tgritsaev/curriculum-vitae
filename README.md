@@ -1,2 +1,3 @@
 # cv
-Curriculum Vitae and about me.
+
+Curriculum Vitae is placed in `cv/main.pdf`.
